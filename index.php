@@ -14,6 +14,8 @@
 </head>
 <body>
     <h1>Creando el proyecto con Git</h1>
+    <p>Los cambios pueden estar en varias líneas</p>
     <p>Añadimos un cambio al proyecto</p>
+    <p>Añadimos otro cambio para comparar</p>
 </body>
 </html>
