@@ -17,5 +17,6 @@
     <p>Los cambios pueden estar en varias líneas</p>
     <p>Añadimos un cambio al proyecto</p>
     <p>Añadimos otro cambio para comparar</p>
+	<p>Ahora cambiamos desde github</p>
 </body>
 </html>
